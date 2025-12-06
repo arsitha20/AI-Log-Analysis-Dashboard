@@ -218,17 +218,3 @@ Click Analyze Logs → See AI generated clusters and explanations
 - React displays AI insights in the dashboard
 
 - Bottom table shows parsed logs with timestamp, level, service, message
-
-## Future Enhancements
-
-- Real-time log streaming
-
-- Error trend charts with Recharts/D3
-
-- Semantic log search using vector embeddings
-
-- Multi-service filtering & log-level filtering
-
-- Deploy with Docker + Kubernetes
-
-- Support local LLMs (Ollama, LLaMA)
